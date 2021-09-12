@@ -1,2 +1,4 @@
 # javaStudy
 这是一个快速学习Java的springboot项目
+
+两天就可以学会java，并且能够上手干活
